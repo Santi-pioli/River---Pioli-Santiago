@@ -1,0 +1,23 @@
+#gall{
+    width: 500px;
+    height: 400px;
+}
+#fran{
+    width: 400px;
+    height: 400px;
+
+}
+#labruna{
+    width: 400px;
+    height: 400px;
+}
+body{
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+h1{
+    background-color: white;
+    text-align: center;
+    color: red;
+}
